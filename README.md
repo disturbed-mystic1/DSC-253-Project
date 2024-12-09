@@ -29,4 +29,4 @@ L3 Agent: The contributions from the Asia region were 96,169 million in 2024, wh
 
 
 
-**Special Thanks**: [Adam Lucek](https://www.youtube.com/@AdamLucek) for providing a walkthrough of the process on his [YouTube Channel]((https://youtu.be/GfjUJ1TnI-o?feature=shared)
+**Special Thanks**: [Adam Lucek](https://www.youtube.com/@AdamLucek) for providing a walkthrough of the process on his [YouTube Channel](https://youtu.be/GfjUJ1TnI-o?feature=shared)
