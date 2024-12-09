@@ -21,7 +21,7 @@ The datasets cleaned_candidates.csv and cleaned_references.csv provide the respo
 To run the notebooks please clone this repository and change the directory to your working directory.
 
 ```python
-git clone https://github.com/disturbed-mystic1/DSC-253-Project.git
+git clone https://github.com/your-github/DSC-253-Project.git
 ```
 ```bash
 cd DSC-253-Project
