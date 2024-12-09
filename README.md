@@ -18,8 +18,15 @@ Two methods are employed for retrieval. Initially, it uses a similarity-based me
 
 #### Example
 
+What Ticker Would you Like to Analyze? AAPL
 
-**Citation:**
+What would you like to know about AAPL's form 10-K? What were the major sources of profit? 
+L3 Agent: The major sources of profit are net sales from the Americas, Europe, Greater China, Japan, and Rest of Asia Pacific segments.
+
+What would you like to know about AAPL's form 10-K? What were the contributions from the Asia region?
+L3 Agent: The contributions from the Asia region were 96,169 million in 2024, which represents a 13% increase compared to 2023 and a 9% increase compared to 2022.
+
+
 
 
 **Special Thanks**: Adam Lucek for providing a walkthrough of the process on his YouTube Channel
