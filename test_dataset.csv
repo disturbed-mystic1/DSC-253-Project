@@ -1,0 +1,1601 @@
+,question,answer,context,ticker,filing,text
+0,"How much were the company's debt obligations as of December 31, 2023?","$2,299,887 thousand","The company's debt obligations as of December 31, 2023, totaled $2,299,887 thousand.",ETSY,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+How much were the company's debt obligations as of December 31, 2023?
+
+### Context:
+The company's debt obligations as of December 31, 2023, totaled $2,299,887 thousand.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+$2,299,887 thousand<|eot_id|>"
+1,What are the specific structures and legal considerations for a management services organization (MSO) in relation to its relationship with physician owners?,Management services organizations (MSOs) must structure their fees to comply with state fee splitting laws and often use stock transfer restriction agreements and/or other relationships to maintain a 'friendly' relationship with physician owners of the professional corporation.,"A corporate entity referred to as a management services organization (MSO) provides various management services and keeps the physician entity 'friendly' through a stock transfer restriction agreement and/or other relationships. The fees under the management services arrangement must comply with state fee splitting laws, which in some states may prohibit percentage-based fees.",CVS,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What are the specific structures and legal considerations for a management services organization (MSO) in relation to its relationship with physician owners?
+
+### Context:
+A corporate entity referred to as a management services organization (MSO) provides various management services and keeps the physician entity 'friendly' through a stock transfer restriction agreement and/or other relationships. The fees under the management services arrangement must comply with state fee splitting laws, which in some states may prohibit percentage-based fees.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Management services organizations (MSOs) must structure their fees to comply with state fee splitting laws and often use stock transfer restriction agreements and/or other relationships to maintain a 'friendly' relationship with physician owners of the professional corporation.<|eot_id|>"
+2,Where does Eli Lilly and Company manufacture and distribute its products?,"Eli Lilly and Company manufactures and distributes its products through facilities in the United States, including Puerto Rico, and in Europe and Asia.","We manufacture and distribute our products through facilities in the United States (U.S.), including Puerto Rico, and in Europe and Asia.",LLY,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+Where does Eli Lilly and Company manufacture and distribute its products?
+
+### Context:
+We manufacture and distribute our products through facilities in the United States (U.S.), including Puerto Rico, and in Europe and Asia.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Eli Lilly and Company manufactures and distributes its products through facilities in the United States, including Puerto Rico, and in Europe and Asia.<|eot_id|>"
+3,"What impact does the EU's Carbon Border Adjustment Mechanism (CBAM) have on companies importing certain materials like iron, steel, and aluminum?","The EU's Carbon Border Adjustment Mechanism (CBAM) increases costs for companies importing certain materials such as iron, steel, and aluminum, and/or limits their ability to import lower-cost materials from non-EU countries.","The EU adopted the Carbon Border Adjustment Mechanism (CBAM), which subjects certain imported materials such as iron, steel, and aluminum, to a carbon levy linked to the carbon price payable on domestic goods under the European Trading Scheme. The CBAM could increase costs of importing such materials and/or limit the ability to import lower cost materials from non-EU countries.",F,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What impact does the EU's Carbon Border Adjustment Mechanism (CBAM) have on companies importing certain materials like iron, steel, and aluminum?
+
+### Context:
+The EU adopted the Carbon Border Adjustment Mechanism (CBAM), which subjects certain imported materials such as iron, steel, and aluminum, to a carbon levy linked to the carbon price payable on domestic goods under the European Trading Scheme. The CBAM could increase costs of importing such materials and/or limit the ability to import lower cost materials from non-EU countries.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The EU's Carbon Border Adjustment Mechanism (CBAM) increases costs for companies importing certain materials such as iron, steel, and aluminum, and/or limits their ability to import lower-cost materials from non-EU countries.<|eot_id|>"
+4,What is the primary medical application of DJS-002 being developed by DJS Antibodies Ltd?,It is being developed for the treatment of Idiopathic Pulmonary Fibrosis and other fibrotic diseases.,DJS-002 is an LPAR1 antagonist antibody currently in preclinical studies for the treatment of Idiopathic Pulmonary Fibrosis and other fibrotic diseases.,ABBV,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What is the primary medical application of DJS-002 being developed by DJS Antibodies Ltd?
+
+### Context:
+DJS-002 is an LPAR1 antagonist antibody currently in preclinical studies for the treatment of Idiopathic Pulmonary Fibrosis and other fibrotic diseases.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+It is being developed for the treatment of Idiopathic Pulmonary Fibrosis and other fibrotic diseases.<|eot_id|>"
+5,What is the predominant strategy for monetizing the company's substantial majority of owned film and television content?,on an individual basis,We have determined that the predominant monetization strategy for the substantial majority of our content is on an individual basis.,CMCSA,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What is the predominant strategy for monetizing the company's substantial majority of owned film and television content?
+
+### Context:
+We have determined that the predominant monetization strategy for the substantial majority of our content is on an individual basis.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+on an individual basis<|eot_id|>"
+6,What was the impact of renovations on room revenues in 2023?,"Room revenues in 2023 were negatively impacted by disruptions due to renovations, which involved the introduction of new and elevated suites and rooms and other amenities throughout the year.",Our room revenues were also impacted by the disruption of the renovation associated with the introduction of new and elevated suites and rooms and other amenities throughout 2023.,LVS,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the impact of renovations on room revenues in 2023?
+
+### Context:
+Our room revenues were also impacted by the disruption of the renovation associated with the introduction of new and elevated suites and rooms and other amenities throughout 2023.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Room revenues in 2023 were negatively impacted by disruptions due to renovations, which involved the introduction of new and elevated suites and rooms and other amenities throughout the year.<|eot_id|>"
+7,"How much of the total future lease payments under operating leases as of December 31, 2023, was allocated for short-term?",$3.2 billion,"As of December 31, 2023, the amount of total future lease payments under operating leases, which had a weighted average remaining lease term of eight years, was $17.7 billion, of which $3.2 billion is short-term.",GOOGL,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+How much of the total future lease payments under operating leases as of December 31, 2023, was allocated for short-term?
+
+### Context:
+As of December 31, 2023, the amount of total future lease payments under operating leases, which had a weighted average remaining lease term of eight years, was $17.7 billion, of which $3.2 billion is short-term.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+$3.2 billion<|eot_id|>"
+8,What percentage of Intuit's revenues came from the Small Business & Self-Employed segment in fiscal 2023?,56%,"In fiscal 2023, the Small Business & Self-Employed segment contributed 56% of Intuit's total revenues.",INTU,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What percentage of Intuit's revenues came from the Small Business & Self-Employed segment in fiscal 2023?
+
+### Context:
+In fiscal 2023, the Small Business & Self-Employed segment contributed 56% of Intuit's total revenues.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+56%<|eot_id|>"
+9,What type of information is included in Note 13 of the Annual Report on Form 10-K?,Information related to commitments and contingencies.,Note 13 in the Annual Report on Form 10-K includes information regarding commitments and contingencies associated with legal proceedings.,AVGO,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What type of information is included in Note 13 of the Annual Report on Form 10-K?
+
+### Context:
+Note 13 in the Annual Report on Form 10-K includes information regarding commitments and contingencies associated with legal proceedings.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Information related to commitments and contingencies.<|eot_id|>"
+10,What are the interest rate ranges for the unsecured notes due between 2024 to 2029?,The interest rates for the unsecured notes due between 2024 to 2029 range from 2.90% to 7.38%.,Unsecured notes due between 2024 and 2029 have interest rates ranging from 2.90% to 7.38%.,DAL,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What are the interest rate ranges for the unsecured notes due between 2024 to 2029?
+
+### Context:
+Unsecured notes due between 2024 and 2029 have interest rates ranging from 2.90% to 7.38%.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The interest rates for the unsecured notes due between 2024 to 2029 range from 2.90% to 7.38%.<|eot_id|>"
+11,What was the percentage change in operating margin from fiscal 2022 to fiscal 2023?,The operating margin increased from 14.3% in fiscal 2022 to 16.3% in fiscal 2023.,"The operating margin increased to 16.3% in fiscal 2023 from 14.3% in fiscal 2022, showing an improvement in operating efficiency.",SBUX,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the percentage change in operating margin from fiscal 2022 to fiscal 2023?
+
+### Context:
+The operating margin increased to 16.3% in fiscal 2023 from 14.3% in fiscal 2022, showing an improvement in operating efficiency.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The operating margin increased from 14.3% in fiscal 2022 to 16.3% in fiscal 2023.<|eot_id|>"
+12,"What was the total depreciation and amortization expense for the fiscal year ended June 30, 2023?","The total depreciation and amortization expense for the fiscal year ended June 30, 2023 was $124.3 million.","Total depreciation and amortization expense for the fiscal year ended June 30, 2023 amounted to $124.3 million.",PTON,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the total depreciation and amortization expense for the fiscal year ended June 30, 2023?
+
+### Context:
+Total depreciation and amortization expense for the fiscal year ended June 30, 2023 amounted to $124.3 million.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The total depreciation and amortization expense for the fiscal year ended June 30, 2023 was $124.3 million.<|eot_id|>"
+13,Which note of the Consolidated Financial Statements contains information on legal proceedings?,Note 15 of the Consolidated Financial Statements contains information on legal proceedings.,Information on legal proceedings is included in Note 15 to the Consolidated Financial Statements.,HSY,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+Which note of the Consolidated Financial Statements contains information on legal proceedings?
+
+### Context:
+Information on legal proceedings is included in Note 15 to the Consolidated Financial Statements.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Note 15 of the Consolidated Financial Statements contains information on legal proceedings.<|eot_id|>"
+14,"What was the tax liability for uncertain tax positions as of August 26, 2023?","The tax liability for uncertain tax positions, including interest and penalties, was $51.0 million as of August 26, 2023.","As of August 26, 2023, the total tax liability for uncertain tax positions, which includes both interest and penalties, amounted to $51.0 million.",AZO,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the tax liability for uncertain tax positions as of August 26, 2023?
+
+### Context:
+As of August 26, 2023, the total tax liability for uncertain tax positions, which includes both interest and penalties, amounted to $51.0 million.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The tax liability for uncertain tax positions, including interest and penalties, was $51.0 million as of August 26, 2023.<|eot_id|>"
+15,What is the expected maximum potential loss from hurricane events for Chubb as of the end of 2023?,"$3,827 million","tax annual aggregate losses incurred in any year from U.S. hurricane events could be in excess of $3,827 million (or 6.4 percent of total Chubb shareholders’ equity at December 31, 2023).",CB,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What is the expected maximum potential loss from hurricane events for Chubb as of the end of 2023?
+
+### Context:
+tax annual aggregate losses incurred in any year from U.S. hurricane events could be in excess of $3,827 million (or 6.4 percent of total Chubb shareholders’ equity at December 31, 2023).
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+$3,827 million<|eot_id|>"
+16,"What were Chipotle's employment numbers at the close of 2023, and how does the company view its employee relationships?","As of December 31, 2024, Chipotle employed 116,068 people worldwide. The company believes its relationship with its employees is good, characterized by effective workforce management and a strong culture.","As of December 31, 2023, Chipotle employed 116,068 people worldwide and believes its relationship with employees is good.",CMG,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What were Chipotle's employment numbers at the close of 2023, and how does the company view its employee relationships?
+
+### Context:
+As of December 31, 2023, Chipotle employed 116,068 people worldwide and believes its relationship with employees is good.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+As of December 31, 2024, Chipotle employed 116,068 people worldwide. The company believes its relationship with its employees is good, characterized by effective workforce management and a strong culture.<|eot_id|>"
+17,What does Item 8 of the financial document include?,Item 8 includes the index to Financial Statements and Supplementary Data.,Item 8 of the financial document contains the index to Financial Statements and Supplementary Data.,CVX,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What does Item 8 of the financial document include?
+
+### Context:
+Item 8 of the financial document contains the index to Financial Statements and Supplementary Data.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Item 8 includes the index to Financial Statements and Supplementary Data.<|eot_id|>"
+18,What percentage of gross product sales were gross-to-net deductions in 2023?,38%,"Our gross-to-net deductions totaled $16.4 billion, or 38% of gross product sales in 2023, compared to $14.6 billion, or 35% of gross product sales in 2022.",GILD,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What percentage of gross product sales were gross-to-net deductions in 2023?
+
+### Context:
+Our gross-to-net deductions totaled $16.4 billion, or 38% of gross product sales in 2023, compared to $14.6 billion, or 35% of gross product sales in 2022.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+38%<|eot_id|>"
+19,What was the percentage change in SG&A expenses in fiscal 2022 compared to fiscal 2021?,decreased by 1.7%,"SG&A expenses decreased $28.6 million, or 1.7%, in fiscal 2022 compared to fiscal 2021.",GME,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the percentage change in SG&A expenses in fiscal 2022 compared to fiscal 2021?
+
+### Context:
+SG&A expenses decreased $28.6 million, or 1.7%, in fiscal 2022 compared to fiscal 2021.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+decreased by 1.7%<|eot_id|>"
+20,What was the total dollar value of outstanding commercial real estate loans at the end of 2023?,$72.878 billion,"The total outstanding commercial real estate loans amounted to $72,878 million at the end of December 2022.",BAC,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the total dollar value of outstanding commercial real estate loans at the end of 2023?
+
+### Context:
+The total outstanding commercial real estate loans amounted to $72,878 million at the end of December 2022.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+$72.878 billion<|eot_id|>"
+21,"How did Procter & Gamble manage the fluctuations in costs, particularly related to commodities and input materials?",Procter & Gamble managed cost fluctuations through pricing actions to offset inflationary impacts and consistent productivity improvements across their operations.,"Changes in Costs. Our costs are subject to fluctuations, particularly due to changes in commodity and input material prices, transportation costs, other broader inflationary impacts and our own productivity efforts. We have significant exposures to certain commodities and input materials, in particular certain oil-derived materials like resins and paper-based materials like pulp. Volatility in the market price of these commodities and input materials has a direct impact on our costs. Disruptions in our manufacturing, supply and distribution operations due to energy shortages, natural disasters, labor or freight constraints have impacted our costs and could do so in the future. New or increased legal or regulatory requirements, along with initiatives to meet our sustainability goals, could also result in increased costs due to higher material costs and investments in facilities and equipment. We strive to implement, achieve and sustain cost improvement plans, including supply chain optimization and general overhead and workforce optimization. Increased pricing in response to certain inflationary or cost increases may also offset portions of the cost impacts; however, such price increases may impact product consumption. If we are unable to manage cost impacts through pricing actions and consistent productivity improvements, it may adversely impact our net sales, gross margin, operating margin, net earnings and cash flows.",PG,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+How did Procter & Gamble manage the fluctuations in costs, particularly related to commodities and input materials?
+
+### Context:
+Changes in Costs. Our costs are subject to fluctuations, particularly due to changes in commodity and input material prices, transportation costs, other broader inflationary impacts and our own productivity efforts. We have significant exposures to certain commodities and input materials, in particular certain oil-derived materials like resins and paper-based materials like pulp. Volatility in the market price of these commodities and input materials has a direct impact on our costs. Disruptions in our manufacturing, supply and distribution operations due to energy shortages, natural disasters, labor or freight constraints have impacted our costs and could do so in the future. New or increased legal or regulatory requirements, along with initiatives to meet our sustainability goals, could also result in increased costs due to higher material costs and investments in facilities and equipment. We strive to implement, achieve and sustain cost improvement plans, including supply chain optimization and general overhead and workforce optimization. Increased pricing in response to certain inflationary or cost increases may also offset portions of the cost impacts; however, such price increases may impact product consumption. If we are unable to manage cost impacts through pricing actions and consistent productivity improvements, it may adversely impact our net sales, gross margin, operating margin, net earnings and cash flows.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Procter & Gamble managed cost fluctuations through pricing actions to offset inflationary impacts and consistent productivity improvements across their operations.<|eot_id|>"
+22,How does the net cash from operating activities in 2023 compare to that of 2022?,"The net cash from operating activities in 2023, amounting to $84,946 million, was substantially higher compared to $46,752 million in 2022.","Net cash provided by (used in) operating activities was $46,752 million in 2022 and increased to $84,946 million in 2023.",AMZN,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+How does the net cash from operating activities in 2023 compare to that of 2022?
+
+### Context:
+Net cash provided by (used in) operating activities was $46,752 million in 2022 and increased to $84,946 million in 2023.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The net cash from operating activities in 2023, amounting to $84,946 million, was substantially higher compared to $46,752 million in 2022.<|eot_id|>"
+23,What services does AutoZone's Loan-A-Tool program offer?,"AutoZone's Loan-A-Tool program allows customers to borrow specialty tools needed for specific automotive jobs, such as a steering wheel puller, which might otherwise be unusable for the customer beyond a single use.","Through the Loan-A-Tool program, AutoZone provides customers with the ability to borrow specialty tools like a steering wheel puller for one-time jobs, enhancing the DIY experience.",AZO,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What services does AutoZone's Loan-A-Tool program offer?
+
+### Context:
+Through the Loan-A-Tool program, AutoZone provides customers with the ability to borrow specialty tools like a steering wheel puller for one-time jobs, enhancing the DIY experience.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+AutoZone's Loan-A-Tool program allows customers to borrow specialty tools needed for specific automotive jobs, such as a steering wheel puller, which might otherwise be unusable for the customer beyond a single use.<|eot_id|>"
+24,What revenue sources does Shoppes at Venetian primarily rely on from its tenants?,"Shoppes at Venetian generates mall revenue primarily through base minimum rents, overage rents, and reimbursements for common area maintenance (CAM) and other expenditures.","generate our mall revenue primarily from leases with tenants through base minimum rents, overage rents and reimbursements for common area maintenance (CAM) and other expenditures.",LVS,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What revenue sources does Shoppes at Venetian primarily rely on from its tenants?
+
+### Context:
+generate our mall revenue primarily from leases with tenants through base minimum rents, overage rents and reimbursements for common area maintenance (CAM) and other expenditures.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Shoppes at Venetian generates mall revenue primarily through base minimum rents, overage rents, and reimbursements for common area maintenance (CAM) and other expenditures.<|eot_id|>"
+25,How much did the company return to stockholders through capital return programs in fiscal year 2023?,"$1,505 million","During fiscal year 2023, we returned $1,505 million to stockholders through our capital return programs, repurchasing 10.4 million shares for approximately $1,295 million and returning $210 million through our quarterly cash dividend program.",EA,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+How much did the company return to stockholders through capital return programs in fiscal year 2023?
+
+### Context:
+During fiscal year 2023, we returned $1,505 million to stockholders through our capital return programs, repurchasing 10.4 million shares for approximately $1,295 million and returning $210 million through our quarterly cash dividend program.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+$1,505 million<|eot_id|>"
+26,How many pieces of software discs and consumer electronic devices did GameStop refurbish in 2022?,"In 2022, GameStop refurbished over 0.9 million pieces of software discs and over 2.8 million consumer electronic devices.","In 2022 alone, through our United States refurbishment center, we refurbished over 0.9 million pieces of software discs and over 2.8 million consumer electronic devices.",GME,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+How many pieces of software discs and consumer electronic devices did GameStop refurbish in 2022?
+
+### Context:
+In 2022 alone, through our United States refurbishment center, we refurbished over 0.9 million pieces of software discs and over 2.8 million consumer electronic devices.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+In 2022, GameStop refurbished over 0.9 million pieces of software discs and over 2.8 million consumer electronic devices.<|eot_id|>"
+27,What is Epkinly used for and how is it administered?,Epkinly is used to treat adults with certain types of diffuse large B-cell lymphoma and high-grade B-cell lymphoma that has recurred or does not respond to previous treatments after receiving two or more treatments. It is administered as a subcutaneous injection.,Epkinly (epcoritimab) is a product used to treat adults with certain types of diffuse large B-cell lymphoma (DLBCL) and high-grade B-cell lymphoma that has recurred or that does not respond to previous treatment after receiving two or more treatments. Epkinly is administered as a subcutaneous injection.,ABBV,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What is Epkinly used for and how is it administered?
+
+### Context:
+Epkinly (epcoritimab) is a product used to treat adults with certain types of diffuse large B-cell lymphoma (DLBCL) and high-grade B-cell lymphoma that has recurred or that does not respond to previous treatment after receiving two or more treatments. Epkinly is administered as a subcutaneous injection.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Epkinly is used to treat adults with certain types of diffuse large B-cell lymphoma and high-grade B-cell lymphoma that has recurred or does not respond to previous treatments after receiving two or more treatments. It is administered as a subcutaneous injection.<|eot_id|>"
+28,What was the effective tax rate in 2023?,The effective tax rate was a benefit of 50% in 2023.,"Our effective tax rate changed from an expense of 8% to a benefit of 50% in the year ended December 31, 2023 as compared to the year ended December 31, 2022, primarily due to the release of the valuation allowance regarding our U.S. federal and certain state deferred tax assets.",TSLA,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the effective tax rate in 2023?
+
+### Context:
+Our effective tax rate changed from an expense of 8% to a benefit of 50% in the year ended December 31, 2023 as compared to the year ended December 31, 2022, primarily due to the release of the valuation allowance regarding our U.S. federal and certain state deferred tax assets.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The effective tax rate was a benefit of 50% in 2023.<|eot_id|>"
+29,What is the impact of structural changes on the unit case volume and concentrate sales volume of the company on a consolidated basis or at the geographic operating segment level?,"Typically, structural changes do not impact the company's unit case volume or concentrate sales volume on a consolidated basis or at the geographic operating segment level.","Typically, structural changes do not impact the Company’s unit case volume or concentrate sales volume on a consolidated basis or at the geographic operating segment level.",KO,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What is the impact of structural changes on the unit case volume and concentrate sales volume of the company on a consolidated basis or at the geographic operating segment level?
+
+### Context:
+Typically, structural changes do not impact the Company’s unit case volume or concentrate sales volume on a consolidated basis or at the geographic operating segment level.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Typically, structural changes do not impact the company's unit case volume or concentrate sales volume on a consolidated basis or at the geographic operating segment level.<|eot_id|>"
+30,How did the net other income or expenses for the fiscal year 2023 compare to the prior year?,Net other income or expenses for fiscal year 2023 were unfavorable by $5.8 billion compared to the prior year.,"Other (income) expense, net for the fiscal year 2023 was unfavorable by $5.8 billion as compared to the prior year.",JNJ,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+How did the net other income or expenses for the fiscal year 2023 compare to the prior year?
+
+### Context:
+Other (income) expense, net for the fiscal year 2023 was unfavorable by $5.8 billion as compared to the prior year.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Net other income or expenses for fiscal year 2023 were unfavorable by $5.8 billion compared to the prior year.<|eot_id|>"
+31,What legislative act requires federal banking regulators to take prompt corrective action with regards to capital adequacy standards?,The Federal Deposit Insurance Corporation Improvement Act of 1991,"The Federal Deposit Insurance Corporation Improvement Act of 1991 requires relevant federal banking regulators to take ""prompt corrective action"" with respect to depository institutions that do not meet certain capital adequacy standards.",JPM,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What legislative act requires federal banking regulators to take prompt corrective action with regards to capital adequacy standards?
+
+### Context:
+The Federal Deposit Insurance Corporation Improvement Act of 1991 requires relevant federal banking regulators to take ""prompt corrective action"" with respect to depository institutions that do not meet certain capital adequacy standards.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The Federal Deposit Insurance Corporation Improvement Act of 1991<|eot_id|>"
+32,"What is the expected total cost HP will incur from its Fiscal 2023 Plan, and how is it primarily divided?","HP estimates it will incur approximately $1.0 billion in pre-tax charges from its Fiscal 2023 Plan, with about $0.7 billion primarily for labor costs related to workforce reductions and the remaining costs for non-labor actions and other charges.","HP estimates that it will incur pre-tax charges of approximately $1.0 billion, of which approximately $0.7 billion primarily in labor costs related to workforce reductions and the remaining costs will relate to non-labor actions and other charges.",HPQ,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What is the expected total cost HP will incur from its Fiscal 2023 Plan, and how is it primarily divided?
+
+### Context:
+HP estimates that it will incur pre-tax charges of approximately $1.0 billion, of which approximately $0.7 billion primarily in labor costs related to workforce reductions and the remaining costs will relate to non-labor actions and other charges.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+HP estimates it will incur approximately $1.0 billion in pre-tax charges from its Fiscal 2023 Plan, with about $0.7 billion primarily for labor costs related to workforce reductions and the remaining costs for non-labor actions and other charges.<|eot_id|>"
+33,What total volume of natural gas is Chevron contracted to deliver from its operations in Australia and Israel from 2024 through 2026?,2.9 trillion cubic feet,Chevron has contractual commitments to deliver a total of 2.9 trillion cubic feet of natural gas from its operations in Australia and Israel from 2024 through 2026.,CVX,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What total volume of natural gas is Chevron contracted to deliver from its operations in Australia and Israel from 2024 through 2026?
+
+### Context:
+Chevron has contractual commitments to deliver a total of 2.9 trillion cubic feet of natural gas from its operations in Australia and Israel from 2024 through 2026.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+2.9 trillion cubic feet<|eot_id|>"
+34,What were the net sales figures for the North America Salty Snacks segment in 2022 and 2023?,"In 2023, the net sales were $1,092.7 million and in 2022, they were $1,029.4 million.","North America Salty Snacks | 1,092.7 | | | 1,029.4",HSY,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What were the net sales figures for the North America Salty Snacks segment in 2022 and 2023?
+
+### Context:
+North America Salty Snacks | 1,092.7 | | | 1,029.4
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+In 2023, the net sales were $1,092.7 million and in 2022, they were $1,029.4 million.<|eot_id|>"
+35,What was the net increase in cash and cash equivalents over the period?,"$12,674","Cash and cash equivalents at the beginning of the period were $264,380 and at the end of the period were $277,054, representing a net increase of $12,674.",AZO,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the net increase in cash and cash equivalents over the period?
+
+### Context:
+Cash and cash equivalents at the beginning of the period were $264,380 and at the end of the period were $277,054, representing a net increase of $12,674.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+$12,674<|eot_id|>"
+36,What section of the Form 10-K includes financial statements and supplementary data?,ITEM 8,The financial statements and supplementary data are categorized under ITEM 8 in the Form 10-K.,CB,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What section of the Form 10-K includes financial statements and supplementary data?
+
+### Context:
+The financial statements and supplementary data are categorized under ITEM 8 in the Form 10-K.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+ITEM 8<|eot_id|>"
+37,What are the primary factors discussed in the Management’s Discussion and Analysis that affect the financial statements year-to-year changes?,"The primary factors discussed include changes in key items of the financial statements from year to year and how certain accounting principles, policies, and estimates impact the Consolidated Financial Statements.","The discussion of financial condition and results of operations provides information including the changes in certain key items in those financial statements from year to year, and the primary factors that accounted for those changes, as well as how certain accounting principles, policies and estimates affect our Consolidated Financial Statements.",HPQ,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What are the primary factors discussed in the Management’s Discussion and Analysis that affect the financial statements year-to-year changes?
+
+### Context:
+The discussion of financial condition and results of operations provides information including the changes in certain key items in those financial statements from year to year, and the primary factors that accounted for those changes, as well as how certain accounting principles, policies and estimates affect our Consolidated Financial Statements.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The primary factors discussed include changes in key items of the financial statements from year to year and how certain accounting principles, policies, and estimates impact the Consolidated Financial Statements.<|eot_id|>"
+38,"What were the lease terms and discount rates for operating leases as of March 31, 2023 and 2022?","As of March 31, 2023, the lease term was 7.5 years with a discount rate of 3.3%. As of March 31, 2022, the lease term was 6.8 years with a discount rate of 2.5%.","Weighted average remaining lease term and discount rate at March 31, 2023 and 2022 are as follows: At March 31, 2023 - Lease term: 7.5 years, Discount rate: 3.3%; At March 31, 2022 - Lease term: 6.8 years, Discount rate: 2.5%.",EA,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What were the lease terms and discount rates for operating leases as of March 31, 2023 and 2022?
+
+### Context:
+Weighted average remaining lease term and discount rate at March 31, 2023 and 2022 are as follows: At March 31, 2023 - Lease term: 7.5 years, Discount rate: 3.3%; At March 31, 2022 - Lease term: 6.8 years, Discount rate: 2.5%.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+As of March 31, 2023, the lease term was 7.5 years with a discount rate of 3.3%. As of March 31, 2022, the lease term was 6.8 years with a discount rate of 2.5%.<|eot_id|>"
+39,"What was the total interest expense for the year ended December 31, 2023?",$348.8 million,"Interest expense increased $42.9 million to $348.8 million for the year ended December 31, 2023, compared to $305.9 million during the year ended December 31, 2022.",AMC,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the total interest expense for the year ended December 31, 2023?
+
+### Context:
+Interest expense increased $42.9 million to $348.8 million for the year ended December 31, 2023, compared to $305.9 million during the year ended December 31, 2022.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+$348.8 million<|eot_id|>"
+40,What are the components of The Coca-Cola Company's Corporate operating structure?,The Coca-Cola Company's Corporate operating structure consists of a center focusing on strategic initiatives and a platform services organization that supports operating units by providing global services.,"Our operating structure also includes Corporate, which consists of two components: (1) a center focusing on strategic initiatives, policy, governance and scaling global initiatives, and (2) a platform services organization supporting the operating units, global marketing category leadership teams and the center by providing efficient and scaled global services and capabilities.",KO,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What are the components of The Coca-Cola Company's Corporate operating structure?
+
+### Context:
+Our operating structure also includes Corporate, which consists of two components: (1) a center focusing on strategic initiatives, policy, governance and scaling global initiatives, and (2) a platform services organization supporting the operating units, global marketing category leadership teams and the center by providing efficient and scaled global services and capabilities.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The Coca-Cola Company's Corporate operating structure consists of a center focusing on strategic initiatives and a platform services organization that supports operating units by providing global services.<|eot_id|>"
+41,What amount of valuation allowance was released by the company in 2023?,The company released $2.9 billion of its valuation allowance in 2023.,We released $2.9 billion of our valuation allowance in 2023 and will continue to monitor the need for a valuation allowance against our deferred tax assets on a quarterly basis.,ABNB,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What amount of valuation allowance was released by the company in 2023?
+
+### Context:
+We released $2.9 billion of our valuation allowance in 2023 and will continue to monitor the need for a valuation allowance against our deferred tax assets on a quarterly basis.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The company released $2.9 billion of its valuation allowance in 2023.<|eot_id|>"
+42,"What percentage of Walmart's U.S. salaried store, club, and supply chain management started their careers in hourly positions?",Approximately 75%,"Approximately 75% of our U.S. salaried store, club and supply chain management started their careers in hourly positions.",WMT,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What percentage of Walmart's U.S. salaried store, club, and supply chain management started their careers in hourly positions?
+
+### Context:
+Approximately 75% of our U.S. salaried store, club and supply chain management started their careers in hourly positions.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Approximately 75%<|eot_id|>"
+43,What was the financial impact of the TSAs and TMAs on Johnson & Johnson's consolidated statements of earnings for fiscal year 2023?,The financial impact of the Transition Services Agreements (TSAs) and the Trade Manufacturing Agreements (TMAs) on Johnson & Johnson's consolidated statements of earnings for fiscal year 2023 was immaterial.,Amounts related to the TSAs and TMAs included in the consolidated statements of earnings were immaterial for the fiscal year 2023.,JNJ,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the financial impact of the TSAs and TMAs on Johnson & Johnson's consolidated statements of earnings for fiscal year 2023?
+
+### Context:
+Amounts related to the TSAs and TMAs included in the consolidated statements of earnings were immaterial for the fiscal year 2023.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The financial impact of the Transition Services Agreements (TSAs) and the Trade Manufacturing Agreements (TMAs) on Johnson & Johnson's consolidated statements of earnings for fiscal year 2023 was immaterial.<|eot_id|>"
+44,What was the financial benefit received by AMC due to the modification of the 2022 PSU awards?,$20.2 million in additional stock compensation expense,"The modification of the 2024 PSU awards resulted in the immediate additional vesting of certain stock units, which was treated as a Type 3 modification and resulted in AMC recognizing $20.2 million of additional stock compensation expense in 2026.",AMC,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the financial benefit received by AMC due to the modification of the 2022 PSU awards?
+
+### Context:
+The modification of the 2024 PSU awards resulted in the immediate additional vesting of certain stock units, which was treated as a Type 3 modification and resulted in AMC recognizing $20.2 million of additional stock compensation expense in 2026.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+$20.2 million in additional stock compensation expense<|eot_id|>"
+45,What is the expected range for Ford's adjusted EBIT in the full year of 2024?,$10 billion to $12 billion,"For full-year 2024, we expect adjusted EBIT of $10 billion to $12 billion and adjusted free cash flow of $6 billion to $7 billion.",F,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What is the expected range for Ford's adjusted EBIT in the full year of 2024?
+
+### Context:
+For full-year 2024, we expect adjusted EBIT of $10 billion to $12 billion and adjusted free cash flow of $6 billion to $7 billion.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+$10 billion to $12 billion<|eot_id|>"
+46,What was the impact of the translation of a stronger U.S. dollar on gross profit in fiscal 2022?,Translation impact of a stronger U.S. dollar partially offset the increase in gross profit,"The increase in gross profit is primarily attributable to a decrease in freight expense as a result of lower ecommerce volume and added cost optimizations, partially offset by the translation impact of a stronger U.S. dollar.",GME,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the impact of the translation of a stronger U.S. dollar on gross profit in fiscal 2022?
+
+### Context:
+The increase in gross profit is primarily attributable to a decrease in freight expense as a result of lower ecommerce volume and added cost optimizations, partially offset by the translation impact of a stronger U.S. dollar.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Translation impact of a stronger U.S. dollar partially offset the increase in gross profit<|eot_id|>"
+47,What types of technologies does the Mortgage Technology segment employ to enhance operational efficiency?,"Speed, reliability, resilience, capacity,...  ","Ourproprietary systems are built using state-of-the-art technology and are designed to support our customers' workflows across the networks we operate. Speed,...  ",ICE,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What types of technologies does the Mortgage Technology segment employ to enhance operational efficiency?
+
+### Context:
+Ourproprietary systems are built using state-of-the-art technology and are designed to support our customers' workflows across the networks we operate. Speed,...  
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Speed, reliability, resilience, capacity,...  <|eot_id|>"
+48,What changes did the RADV Audit Rule of 2023 introduce regarding the audit process of Medicare Advantage plans?,The 2023 RADV Audit Rule eliminated the use of a fee-for-service adjuster and continued the practice of using extrapolation in RADV audits of Medicare Advantage organizations.,"On January 30, 2023, CMS released the final rule concerning Part C contract-level Risk Adjustment Data Validation Audits (the “RADV Audit Rule”). The RADV Audit Rule eliminated the application of a fee-for-service adjuster (“FFS Adjuster”) in contract-level RADV audits but continued the use of extrapolation in such audits of Medicare Advantage organizations.",CVS,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What changes did the RADV Audit Rule of 2023 introduce regarding the audit process of Medicare Advantage plans?
+
+### Context:
+On January 30, 2023, CMS released the final rule concerning Part C contract-level Risk Adjustment Data Validation Audits (the “RADV Audit Rule”). The RADV Audit Rule eliminated the application of a fee-for-service adjuster (“FFS Adjuster”) in contract-level RADV audits but continued the use of extrapolation in such audits of Medicare Advantage organizations.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The 2023 RADV Audit Rule eliminated the use of a fee-for-service adjuster and continued the practice of using extrapolation in RADV audits of Medicare Advantage organizations.<|eot_id|>"
+49,What are the reasons for excluding employer payroll taxes related to stock-based compensation from some financial measures?,Employer payroll taxes related to stock-based compensation are excluded from certain financial measures because they are difficult to predict and outside of the company's control.,"Additionally, we exclude employer payroll taxes related to stock-based compensation as it is difficult to predict and outside of our control.",PLTR,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What are the reasons for excluding employer payroll taxes related to stock-based compensation from some financial measures?
+
+### Context:
+Additionally, we exclude employer payroll taxes related to stock-based compensation as it is difficult to predict and outside of our control.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Employer payroll taxes related to stock-based compensation are excluded from certain financial measures because they are difficult to predict and outside of the company's control.<|eot_id|>"
+50,How did the transition to a distributor operating model impact NIKE Brand's APLA revenue growth in fiscal 2023?,The transition to a distributor operating model reduced NIKE Brand's APLA revenue growth by approximately 5 percentage points in fiscal 2023.,"Within our CASA territory, the transition of our Chile, Argentina and Uruguay entities to a third-party distributor operating model reduced APLA revenue growth by approximately 5 percentage points.",NKE,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+How did the transition to a distributor operating model impact NIKE Brand's APLA revenue growth in fiscal 2023?
+
+### Context:
+Within our CASA territory, the transition of our Chile, Argentina and Uruguay entities to a third-party distributor operating model reduced APLA revenue growth by approximately 5 percentage points.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The transition to a distributor operating model reduced NIKE Brand's APLA revenue growth by approximately 5 percentage points in fiscal 2023.<|eot_id|>"
+51,What was the percentage increase in the revenue per package for FedEx Ground in 2022?,10%,"FedEx Ground yield increased 10% in 2023 primarily due to higher fuel and other surcharges, and a mix shift towards higher-yielding business-to-consumer products.",FDX,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the percentage increase in the revenue per package for FedEx Ground in 2022?
+
+### Context:
+FedEx Ground yield increased 10% in 2023 primarily due to higher fuel and other surcharges, and a mix shift towards higher-yielding business-to-consumer products.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+10%<|eot_id|>"
+52,What information can be found in Item 8 of a document?,Financial Statements and Supplementary Data,Item 8 includes Financial Statements and Supplementary Data.,GIS,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What information can be found in Item 8 of a document?
+
+### Context:
+Item 8 includes Financial Statements and Supplementary Data.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Financial Statements and Supplementary Data<|eot_id|>"
+53,Where can information regarding legal proceedings be found in the document?,"Information regarding legal proceedings can be found in Note 14, titled 'Litigation and Contingencies.', in the Consolidated Financial Statements.","Information about ITEM 3, which covers legal proceedings, can be found in Note 14, 'Litigation and Contingencies.'",HPQ,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+Where can information regarding legal proceedings be found in the document?
+
+### Context:
+Information about ITEM 3, which covers legal proceedings, can be found in Note 14, 'Litigation and Contingencies.'
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Information regarding legal proceedings can be found in Note 14, titled 'Litigation and Contingencies.', in the Consolidated Financial Statements.<|eot_id|>"
+54,By what percentage did the earnings from operations as a percentage of net revenue decrease in the Personal Systems segment from 2022 to 2023?,0.3%,Personal Systems earnings from operations as a percentage of net revenue decreased by 0.3 percentage points from 2022 to 2023.,HPQ,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+By what percentage did the earnings from operations as a percentage of net revenue decrease in the Personal Systems segment from 2022 to 2023?
+
+### Context:
+Personal Systems earnings from operations as a percentage of net revenue decreased by 0.3 percentage points from 2022 to 2023.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+0.3%<|eot_id|>"
+55,Under what captions is the executive compensation information detailed in the 2023 Proxy Statement?,"In the 2023 Proxy Statement, the executive compensation information is detailed under the captions 'Executive Compensation', 'Compensation Committee Interlocks and Insider Participation', 'Director Compensation', and 'Compensation Committee Report'.","ITEM 11. EXECUTIVE COMPENSATION Information regarding our executive compensation required by this item will be contained in our 2023 Proxy Statement under the captions “Executive Compensation”, “Compensation Committee Interlocks and Insider Participation”, “Director Compensation” and “Compensation Committee Report,” and is hereby incorporated by reference.",NVDA,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+Under what captions is the executive compensation information detailed in the 2023 Proxy Statement?
+
+### Context:
+ITEM 11. EXECUTIVE COMPENSATION Information regarding our executive compensation required by this item will be contained in our 2023 Proxy Statement under the captions “Executive Compensation”, “Compensation Committee Interlocks and Insider Participation”, “Director Compensation” and “Compensation Committee Report,” and is hereby incorporated by reference.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+In the 2023 Proxy Statement, the executive compensation information is detailed under the captions 'Executive Compensation', 'Compensation Committee Interlocks and Insider Participation', 'Director Compensation', and 'Compensation Committee Report'.<|eot_id|>"
+56,What is the title of the section where the financial statements and supplementary data are discussed?,Item 8,The financial statements and supplementary data are discussed in Item 8.,F,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What is the title of the section where the financial statements and supplementary data are discussed?
+
+### Context:
+The financial statements and supplementary data are discussed in Item 8.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Item 8<|eot_id|>"
+57,"What method is used to calculate depreciation for leasehold improvements, property, and equipment?","Depreciation for leasehold improvements, property, and equipment is calculated using the straight-line method over the estimated useful lives of the assets.",Depreciation is calculated using the straight-line method over the estimated useful lives of the assets.,CMG,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What method is used to calculate depreciation for leasehold improvements, property, and equipment?
+
+### Context:
+Depreciation is calculated using the straight-line method over the estimated useful lives of the assets.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Depreciation for leasehold improvements, property, and equipment is calculated using the straight-line method over the estimated useful lives of the assets.<|eot_id|>"
+58,What can be found at Part IV Item 15 in the document mentioned?,Indexes to Financial Statements and Financial Statement Schedules,"Part IV Item 15 includes 'Exhibits, Financial Statement Schedules' alongside the Index to Financial Statements and the Index to Financial Statement Schedules.",DVA,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What can be found at Part IV Item 15 in the document mentioned?
+
+### Context:
+Part IV Item 15 includes 'Exhibits, Financial Statement Schedules' alongside the Index to Financial Statements and the Index to Financial Statement Schedules.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Indexes to Financial Statements and Financial Statement Schedules<|eot_id|>"
+59,What does goodwill represent in accounting?,Goodwill represents the excess of purchase price and related costs over the value assigned to the net tangible and identifiable intangible assets of businesses acquired.,Good Seller}: ,AVGO,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What does goodwill represent in accounting?
+
+### Context:
+Good Seller}: 
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Goodwill represents the excess of purchase price and related costs over the value assigned to the net tangible and identifiable intangible assets of businesses acquired.<|eot_id|>"
+60,How did Berkshire respond to the U.K. leaving the EU in relation to its insurance operations?,"In response to the U.K. leaving the EU, Berkshire Hathaway European Insurance DAC in Ireland was established to allow property and casualty insurance and reinsurance businesses to continue operating in the EU, and Berkshire maintained a substantial presence in London.","In 2016, the U.K. voted in a national referendum to withdraw from the European Union (\",BRK-A,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+How did Berkshire respond to the U.K. leaving the EU in relation to its insurance operations?
+
+### Context:
+In 2016, the U.K. voted in a national referendum to withdraw from the European Union (\
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+In response to the U.K. leaving the EU, Berkshire Hathaway European Insurance DAC in Ireland was established to allow property and casualty insurance and reinsurance businesses to continue operating in the EU, and Berkshire maintained a substantial presence in London.<|eot_id|>"
+61,What percentage of billings is for subscription and support services?,Over 90 percent,Over 90 percent of the value of our billings to customers is for our subscription and support service.,CRM,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What percentage of billings is for subscription and support services?
+
+### Context:
+Over 90 percent of the value of our billings to customers is for our subscription and support service.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Over 90 percent<|eot_id|>"
+62,What are AMD Radeon PRO graphics cards designed to optimize and for what use cases?,"Design workloads for use cases such as 3D rendering, design and manufacturing for CAD, and media and entertainment for broadcast and animation pipelines on high resolution displays.","Our AMD Radeon PRO graphics cards are designed to optimize design workloads for demanding use cases such as 3D rendering, design and manufacturing for CAD, and media and entertainment for broadcast and animation pipelines on high resolution displays.",AMD,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What are AMD Radeon PRO graphics cards designed to optimize and for what use cases?
+
+### Context:
+Our AMD Radeon PRO graphics cards are designed to optimize design workloads for demanding use cases such as 3D rendering, design and manufacturing for CAD, and media and entertainment for broadcast and animation pipelines on high resolution displays.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Design workloads for use cases such as 3D rendering, design and manufacturing for CAD, and media and entertainment for broadcast and animation pipelines on high resolution displays.<|eot_id|>"
+63,What led to the decrease in net cash provided by operating activities in fiscal year 2023?,"The decrease in net cash provided by operating activities was due to lower earnings before taxes, working capital management activities, and changes in receivables from contract manufacturers.","Net cash provided by operating activities decreased by $0.9 billion for fiscal year 2023 due to lower earnings before taxes, working capital management activities, and changes in receivables from contract manufacturers.",HPQ,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What led to the decrease in net cash provided by operating activities in fiscal year 2023?
+
+### Context:
+Net cash provided by operating activities decreased by $0.9 billion for fiscal year 2023 due to lower earnings before taxes, working capital management activities, and changes in receivables from contract manufacturers.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The decrease in net cash provided by operating activities was due to lower earnings before taxes, working capital management activities, and changes in receivables from contract manufacturers.<|eot_id|>"
+64,"What criteria were used to audit Salesforce, Inc.'s internal control over financial reporting as of January 31, 2023?",Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework),"We have audited Salesforce, Inc.’s (the Company’s) internal control over financial reporting as of January 31, 2023, based on criteria established in Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework)",CRM,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What criteria were used to audit Salesforce, Inc.'s internal control over financial reporting as of January 31, 2023?
+
+### Context:
+We have audited Salesforce, Inc.’s (the Company’s) internal control over financial reporting as of January 31, 2023, based on criteria established in Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework)
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework)<|eot_id|>"
+65,What are the two primary businesses of Comcast Corporation?,Connectivity & Platforms and Content & Experiences,Comcast Corporation operates two primary businesses: Connectivity & Platforms and Content & Experiences.,CMCSA,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What are the two primary businesses of Comcast Corporation?
+
+### Context:
+Comcast Corporation operates two primary businesses: Connectivity & Platforms and Content & Experiences.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Connectivity & Platforms and Content & Experiences<|eot_id|>"
+66,"What were the net transfers from SCL to its subsidiaries for the years ended December 31, 2022 and 2021?","Net transfers from SCL to its subsidiaries were $497 million and $385 million for the years ended December 31, 2022, and December 31, 2021, respectively.","Net transfers from SCL to its subsidiaries were $497 million and $385 million for the years ended December 31, 2022 and 2021, respectively.",LVS,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What were the net transfers from SCL to its subsidiaries for the years ended December 31, 2022 and 2021?
+
+### Context:
+Net transfers from SCL to its subsidiaries were $497 million and $385 million for the years ended December 31, 2022 and 2021, respectively.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Net transfers from SCL to its subsidiaries were $497 million and $385 million for the years ended December 31, 2022, and December 31, 2021, respectively.<|eot_id|>"
+67,What are the components of the Studios Segment’s programming and production costs?,"Amortization of film and TV production and acquisition costs, residuals and participations expenses, and distribution expenses",Programming and production costs in the Studios Segment include the amortization of capitalized film and television production and acquisition costs; residuals and participations expenses; and distribution expenses.,CMCSA,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What are the components of the Studios Segment’s programming and production costs?
+
+### Context:
+Programming and production costs in the Studios Segment include the amortization of capitalized film and television production and acquisition costs; residuals and participations expenses; and distribution expenses.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Amortization of film and TV production and acquisition costs, residuals and participations expenses, and distribution expenses<|eot_id|>"
+68,What factors contributed to the reported 2% increase in EBIT for fiscal 2023?,"The reported 2% increase in EBIT for fiscal 2023 was primarily due to higher revenues, which were partially offset by a gross margin contraction and higher selling and administrative expenses.","Reported EBIT increased 2% due to higher revenues and the following: Gross margin contraction of approximately 190 basis points primarily due to higher product costs, and selling and administrative expense increased 8% due to higher operating overhead and demand creation expense.",NKE,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What factors contributed to the reported 2% increase in EBIT for fiscal 2023?
+
+### Context:
+Reported EBIT increased 2% due to higher revenues and the following: Gross margin contraction of approximately 190 basis points primarily due to higher product costs, and selling and administrative expense increased 8% due to higher operating overhead and demand creation expense.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The reported 2% increase in EBIT for fiscal 2023 was primarily due to higher revenues, which were partially offset by a gross margin contraction and higher selling and administrative expenses.<|eot_id|>"
+69,When does the rule requiring JPMorgan Chase & Co. to act as a source of strength for its subsidiary banks become effective?,It is an ongoing requirement,JPMorgan Chase & Co. is required to serve as a source of financial strength for its depository institution subsidiaries continuously.,JPM,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+When does the rule requiring JPMorgan Chase & Co. to act as a source of strength for its subsidiary banks become effective?
+
+### Context:
+JPMorgan Chase & Co. is required to serve as a source of financial strength for its depository institution subsidiaries continuously.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+It is an ongoing requirement<|eot_id|>"
+70,Where in the Annual Report on Form 10-K can details about legal proceedings be found?,Note 14 of the Notes to the Consolidated Financial Statements,"Details regarding legal proceedings are found in Note 14 of the Notes to the Consolidated Financial Statements, which is included in Item 8 of this Annual Report on Form 10-K.",EA,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+Where in the Annual Report on Form 10-K can details about legal proceedings be found?
+
+### Context:
+Details regarding legal proceedings are found in Note 14 of the Notes to the Consolidated Financial Statements, which is included in Item 8 of this Annual Report on Form 10-K.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Note 14 of the Notes to the Consolidated Financial Statements<|eot_id|>"
+71,What are the different types of risks that Schwab manages?,"Schwab manages various types of risks including operational risk, model risk, compliance risk, privacy risk, anti-money laundering/sanctions risk, conduct risk, fiduciary risk, incentive compensation risk, credit risk, and market risk.","Schwab manages exposure to operational risk, model risk, compliance risk, privacy risk, anti-money laundering/sanctions risk, conduct risk, fiduciary risk, incentive compensation risk, credit risk, and market risk through various internal policies, procedures, and controls.",SCHW,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What are the different types of risks that Schwab manages?
+
+### Context:
+Schwab manages exposure to operational risk, model risk, compliance risk, privacy risk, anti-money laundering/sanctions risk, conduct risk, fiduciary risk, incentive compensation risk, credit risk, and market risk through various internal policies, procedures, and controls.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Schwab manages various types of risks including operational risk, model risk, compliance risk, privacy risk, anti-money laundering/sanctions risk, conduct risk, fiduciary risk, incentive compensation risk, credit risk, and market risk.<|eot_id|>"
+72,What total amount of debt did eBay repay in 2023?,eBay repaid a total of $1.2 billion in debt in 2023.,"In 2023, we repaid debt of $1.2 billion consisting of the floating rate and 2.750% senior notes due 2023.",EBAY,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What total amount of debt did eBay repay in 2023?
+
+### Context:
+In 2023, we repaid debt of $1.2 billion consisting of the floating rate and 2.750% senior notes due 2023.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+eBay repaid a total of $1.2 billion in debt in 2023.<|eot_id|>"
+73,What approach is used to test goodwill for impairment at The Hershey Company?,"The Hershey Company conducts annual impairment tests for goodwill either through a qualitative assessment evaluating economic, industry, and company-specific factors, or through a quantitative approach that compares the fair value of a reporting unit with its carrying amount. If fair value is less than the carrying amount, a goodwill impairment is recognized.","Our annual impairment tests are conducted at the beginning of the fourth quarter. We test goodwill for impairment by performing either a qualitative or quantitative assessment. If we choose to perform a qualitative assessment, we evaluate economic, industry and company-specific factors in assessing the fair value of the related reporting unit. If we determine that it is more likely than not that the fair value of the reporting unit is less than its carrying value, a quantitative test is then performed. Otherwise, no further testing is required. For those reporting units tested using a quantitative approach, we compare the fair value of each reporting unit with the carrying amount of the reporting unit, including goodwill. If the estimated fair value of the reporting unit is less than the carrying amount of the reporting unit, impairment is indicated, requiring recognition of a goodwill impairment charge for the differential (up to the carrying value of goodwill).",HSY,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What approach is used to test goodwill for impairment at The Hershey Company?
+
+### Context:
+Our annual impairment tests are conducted at the beginning of the fourth quarter. We test goodwill for impairment by performing either a qualitative or quantitative assessment. If we choose to perform a qualitative assessment, we evaluate economic, industry and company-specific factors in assessing the fair value of the related reporting unit. If we determine that it is more likely than not that the fair value of the reporting unit is less than its carrying value, a quantitative test is then performed. Otherwise, no further testing is required. For those reporting units tested using a quantitative approach, we compare the fair value of each reporting unit with the carrying amount of the reporting unit, including goodwill. If the estimated fair value of the reporting unit is less than the carrying amount of the reporting unit, impairment is indicated, requiring recognition of a goodwill impairment charge for the differential (up to the carrying value of goodwill).
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The Hershey Company conducts annual impairment tests for goodwill either through a qualitative assessment evaluating economic, industry, and company-specific factors, or through a quantitative approach that compares the fair value of a reporting unit with its carrying amount. If fair value is less than the carrying amount, a goodwill impairment is recognized.<|eot_id|>"
+74,How does IMC support its customer base in terms of local inventory management?,IMC maintains additional small quantities of products at local IMC sales offices to provide on-time customer support and inventory management.,Additional small quantities of products are maintained at local IMC sales offices to provide on-time customer support and inventory management.,BRK-A,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+How does IMC support its customer base in terms of local inventory management?
+
+### Context:
+Additional small quantities of products are maintained at local IMC sales offices to provide on-time customer support and inventory management.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+IMC maintains additional small quantities of products at local IMC sales offices to provide on-time customer support and inventory management.<|eot_id|>"
+75,What are the conditions required for CSC's banking subsidiaries to draw on secured credit facilities?,"CSC's banking subsidiaries must maintain positive tangible capital, as defined by the Federal Housing Finance Agency, to place new draws on these credit facilities.","CSC’s banking subsidiaries must each maintain positive tangible capital, as defined by the Federal Housing Finance Agency, in order to place new draws upon these credit facilities.",SCHW,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What are the conditions required for CSC's banking subsidiaries to draw on secured credit facilities?
+
+### Context:
+CSC’s banking subsidiaries must each maintain positive tangible capital, as defined by the Federal Housing Finance Agency, in order to place new draws upon these credit facilities.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+CSC's banking subsidiaries must maintain positive tangible capital, as defined by the Federal Housing Finance Agency, to place new draws on these credit facilities.<|eot_id|>"
+76,What was the percentage increase in Operations and Support expenses in 2023 compared to the previous year?,Operations and Support expenses increased by 14% in 2023 compared to 2022.,"Operations and support | $ | 1,041 | | $ | 1,186 | 14 | % Percentage of revenue | 12 | % | 12 | % | Operations and support expense increased $145 million, or 14%, in 2023 compared to 2022.",ABNB,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the percentage increase in Operations and Support expenses in 2023 compared to the previous year?
+
+### Context:
+Operations and support | $ | 1,041 | | $ | 1,186 | 14 | % Percentage of revenue | 12 | % | 12 | % | Operations and support expense increased $145 million, or 14%, in 2023 compared to 2022.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Operations and Support expenses increased by 14% in 2023 compared to 2022.<|eot_id|>"
+77,What were the pre-tax amounts of (gains) losses from foreign currency forward exchange contracts designated as cash flow hedges for the years ended December 31 from 2021 to 2023?,"The pre-tax amounts were gains of $82 million in 2021, gains of $103 million in 2022, and losses of $2 million in 2023.","The company's financial report indicates that the pre-tax amounts of gains (losses) from foreign currency forward exchange contracts designated as cash flow hedges were gains of $82 million in 2021, gains of $103 million in 2022, and losses of $2 million in 2023.",ABBV,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What were the pre-tax amounts of (gains) losses from foreign currency forward exchange contracts designated as cash flow hedges for the years ended December 31 from 2021 to 2023?
+
+### Context:
+The company's financial report indicates that the pre-tax amounts of gains (losses) from foreign currency forward exchange contracts designated as cash flow hedges were gains of $82 million in 2021, gains of $103 million in 2022, and losses of $2 million in 2023.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The pre-tax amounts were gains of $82 million in 2021, gains of $103 million in 2022, and losses of $2 million in 2023.<|eot_id|>"
+78,"What was the gross profit of the energy generation and storage segment in the year ended December 31, 2023?","$1,141","Gross profit energy generation and storage segment | $ | 1,141",TSLA,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the gross profit of the energy generation and storage segment in the year ended December 31, 2023?
+
+### Context:
+Gross profit energy generation and storage segment | $ | 1,141
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+$1,141<|eot_id|>"
+79,"What was the primary reason for the increase in other income, net during the noted period?","The increase in other income, net was primarily due to an increase in interest income resulting from higher cash balances and higher interest rates.","The increase in other income, net was primarily due to an increase in interest income as a result of higher cash balances and higher interest rates.",LULU,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the primary reason for the increase in other income, net during the noted period?
+
+### Context:
+The increase in other income, net was primarily due to an increase in interest income as a result of higher cash balances and higher interest rates.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The increase in other income, net was primarily due to an increase in interest income resulting from higher cash balances and higher interest rates.<|eot_id|>"
+80,What significant change is set for General Motors' EVs starting in 2025 regarding charging hardware?,They will be built with North American Charging Standard (NACS) hardware.,"Beginning in 2025, the first GM EVs will be constructed using the North American Charging Standard (NACS) hardware.",GM,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What significant change is set for General Motors' EVs starting in 2025 regarding charging hardware?
+
+### Context:
+Beginning in 2025, the first GM EVs will be constructed using the North American Charging Standard (NACS) hardware.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+They will be built with North American Charging Standard (NACS) hardware.<|eot_id|>"
+81,"What regulatory body primarily regulates product safety, efficacy, and other aspects in the U.S.?",The U.S. Food and Drug Administration (U.S. FDA),"In the U.S., the pharmaceutical product and medical technology industries have long been subject to regulation by various federal and state agencies, primarily as to product safety, efficacy, manufacturing, advertising, labeling and safety reporting.",JNJ,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What regulatory body primarily regulates product safety, efficacy, and other aspects in the U.S.?
+
+### Context:
+In the U.S., the pharmaceutical product and medical technology industries have long been subject to regulation by various federal and state agencies, primarily as to product safety, efficacy, manufacturing, advertising, labeling and safety reporting.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The U.S. Food and Drug Administration (U.S. FDA)<|eot_id|>"
+82,"What was the carrying amount of the company's non-marketable equity securities accounted for using the fair value measurement alternative as of September 30, 2023?","$1,173 million","As of September 30, 2023, the carrying amount of the company's non-marketable equity securities accounted for using the fair value measurement alternative was $1,173 million.",V,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the carrying amount of the company's non-marketable equity securities accounted for using the fair value measurement alternative as of September 30, 2023?
+
+### Context:
+As of September 30, 2023, the carrying amount of the company's non-marketable equity securities accounted for using the fair value measurement alternative was $1,173 million.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+$1,173 million<|eot_id|>"
+83,"What significant change occurred to the credit agreement terms on May 25, 2022?","The Company entered into the Second Amended and Restated Credit Agreement, which amended and restated the Amended and Restated Credit Agreement to provide a $750 million term loan facility and a $500 million revolving credit facility.","On May 25, 2022, the Company entered into the Second Amended and Restated Credit Agreement, providing for a $750.0 million term loan facility and a $500.0 million revolving credit facility.",PTON,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What significant change occurred to the credit agreement terms on May 25, 2022?
+
+### Context:
+On May 25, 2022, the Company entered into the Second Amended and Restated Credit Agreement, providing for a $750.0 million term loan facility and a $500.0 million revolving credit facility.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The Company entered into the Second Amended and Restated Credit Agreement, which amended and restated the Amended and Restated Credit Agreement to provide a $750 million term loan facility and a $500 million revolving credit facility.<|eot_id|>"
+84,"What is the focus of The Home Depot's Office of Diversity, Equity and Inclusion?","The Home Depot's Office of Diversity, Equity and Inclusion focuses on promoting associate diversity, supplier diversity, and engagement with communities.","Our Office of Diversity, Equity and Inclusion supports our focus on associate diversity, supplier diversity, and engagement with our communities.",HD,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What is the focus of The Home Depot's Office of Diversity, Equity and Inclusion?
+
+### Context:
+Our Office of Diversity, Equity and Inclusion supports our focus on associate diversity, supplier diversity, and engagement with our communities.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The Home Depot's Office of Diversity, Equity and Inclusion focuses on promoting associate diversity, supplier diversity, and engagement with communities.<|eot_id|>"
+85,What is the estimated unrecognized deferred income tax liability related to indefinitely reinvested foreign earnings as of fiscal year 2023?,$206 million,The unrecognized deferred income tax liability related to indefinitely reinvested accumulated foreign earnings is estimated to be $206 million as of fiscal year 2023.,AVGO,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What is the estimated unrecognized deferred income tax liability related to indefinitely reinvested foreign earnings as of fiscal year 2023?
+
+### Context:
+The unrecognized deferred income tax liability related to indefinitely reinvested accumulated foreign earnings is estimated to be $206 million as of fiscal year 2023.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+$206 million<|eot_id|>"
+86,Where is the Financial Statement Schedule for IBM's 2023 Form 10-K located?,On page S-1,The Financial Statement Schedule for IBM's Form 10-K is located on page S-1.,IBM,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+Where is the Financial Statement Schedule for IBM's 2023 Form 10-K located?
+
+### Context:
+The Financial Statement Schedule for IBM's Form 10-K is located on page S-1.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+On page S-1<|eot_id|>"
+87,What training and regulatory compliance do AMC associates complete to ensure safety and professionalism?,"All Theatre Support Center and Theatre Leadership associates complete in-person and online courses focused on professionalism, safety, and security that meet or exceed regulatory requirements by the EEOC, PCI, SEC, and Sarbanes-Oxley Act.","All Theatre Support Center and Theatre Leadership associates complete in-person and online courses focused on professionalism, safety, and security that meet or exceed regulatory requirements and best practices as determined by the Equal Employment Opportunities Commission (EEOC), Payment Card Industry (PCI),NavigatorMovejson .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenok .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Secretaries and Exchange Commission (SEC), and Sarbanes-Oxley Act (SOX).",AMC,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What training and regulatory compliance do AMC associates complete to ensure safety and professionalism?
+
+### Context:
+All Theatre Support Center and Theatre Leadership associates complete in-person and online courses focused on professionalism, safety, and security that meet or exceed regulatory requirements and best practices as determined by the Equal Employment Opportunities Commission (EEOC), Payment Card Industry (PCI),NavigatorMovejson .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenok .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Lenon .Secretaries and Exchange Commission (SEC), and Sarbanes-Oxley Act (SOX).
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+All Theatre Support Center and Theatre Leadership associates complete in-person and online courses focused on professionalism, safety, and security that meet or exceed regulatory requirements by the EEOC, PCI, SEC, and Sarbanes-Oxley Act.<|eot_id|>"
+88,What is the goal of Click to Pay?,"Click to Pay aims to make digital payments as secure, reliable, and interoperable as face-to-face transactions by providing a simplified and consistent checkout experience online.","The goal of Click to Pay is to make digital payments as secure, reliable and interoperable as the checkout experience in person.",V,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What is the goal of Click to Pay?
+
+### Context:
+The goal of Click to Pay is to make digital payments as secure, reliable and interoperable as the checkout experience in person.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Click to Pay aims to make digital payments as secure, reliable, and interoperable as face-to-face transactions by providing a simplified and consistent checkout experience online.<|eot_id|>"
+89,What financial mechanism did the company use in the fourth quarter of 2021 to manage its long-term debt?,"In the fourth quarter of 2021, the company completed a registered offering of Senior Notes and used the proceeds to redeem earlier notes, incurring a prepayment penalty and accelerating the expensing of certain costs.","During the fourth quarter of 2021, we completed the registered offering of $800.0 million of 2.65% Senior Notes due 2031 and $400.0 million of 3.375% Senior Notes due 2051 and used the proceeds of the offering to redeem the $1.0 billion 2023 Notes, which resulted in our incurring a $43.8 million prepayment penalty and we accelerated the expensing of $2.7 million of deferred financing and original issue discount costs associated with the 2023 Notes.",DLTR,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What financial mechanism did the company use in the fourth quarter of 2021 to manage its long-term debt?
+
+### Context:
+During the fourth quarter of 2021, we completed the registered offering of $800.0 million of 2.65% Senior Notes due 2031 and $400.0 million of 3.375% Senior Notes due 2051 and used the proceeds of the offering to redeem the $1.0 billion 2023 Notes, which resulted in our incurring a $43.8 million prepayment penalty and we accelerated the expensing of $2.7 million of deferred financing and original issue discount costs associated with the 2023 Notes.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+In the fourth quarter of 2021, the company completed a registered offering of Senior Notes and used the proceeds to redeem earlier notes, incurring a prepayment penalty and accelerating the expensing of certain costs.<|eot_id|>"
+90,What percentage of the Firm's employment opportunities in 2023 were filled by external candidates?,Approximately 60% of the Firm’s employment opportunities in 2023 were filled by external candidates.,"During 2023, approximately 60% of the Firm’s employment opportunities were filled by external candidates, with the remainder filled by existing employees.",JPM,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What percentage of the Firm's employment opportunities in 2023 were filled by external candidates?
+
+### Context:
+During 2023, approximately 60% of the Firm’s employment opportunities were filled by external candidates, with the remainder filled by existing employees.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+Approximately 60% of the Firm’s employment opportunities in 2023 were filled by external candidates.<|eot_id|>"
+91,"What was the net income for Electronic Arts Inc. for the fiscal year ending on March 31, 2023?",$802 million,"For the fiscal year ended March 31, 2023, the net income for Electronic Arts Inc. was $802 million, demonstrating their financial outcomes for the period.",EA,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the net income for Electronic Arts Inc. for the fiscal year ending on March 31, 2023?
+
+### Context:
+For the fiscal year ended March 31, 2023, the net income for Electronic Arts Inc. was $802 million, demonstrating their financial outcomes for the period.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+$802 million<|eot_id|>"
+92,What percentage of the company's full-year revenues were earned in the second half of 2023?,"In 2023, approximately 56% of the company's full-year revenues were earned in the second half of the year.","During 2023 and 2022, the second half of the year accounted for approximately 56% and 57% of full year revenues, respectively, with the third and fourth quarters accounting for approximately 30% and 26%, respectively, of full year net revenues in 2023 and 28% and 29%, respectively, of full year revenues in each of the third and fourth quarters of 2022.",HAS,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What percentage of the company's full-year revenues were earned in the second half of 2023?
+
+### Context:
+During 2023 and 2022, the second half of the year accounted for approximately 56% and 57% of full year revenues, respectively, with the third and fourth quarters accounting for approximately 30% and 26%, respectively, of full year net revenues in 2023 and 28% and 29%, respectively, of full year revenues in each of the third and fourth quarters of 2022.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+In 2023, approximately 56% of the company's full-year revenues were earned in the second half of the year.<|eot_id|>"
+93,How many votes is each share of Class B common stock entitled to?,15 votes,Each share of our Class B common stock is entitled to 15 votes.,CMCSA,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+How many votes is each share of Class B common stock entitled to?
+
+### Context:
+Each share of our Class B common stock is entitled to 15 votes.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+15 votes<|eot_id|>"
+94,How much did AMD spend on research and development in 2023?,"$5,872 million","In 2023, Advanced Micro Devices incurred $5,872 million in research and development expenses.",AMD,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+How much did AMD spend on research and development in 2023?
+
+### Context:
+In 2023, Advanced Micro Devices incurred $5,872 million in research and development expenses.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+$5,872 million<|eot_id|>"
+95,"How much did UnitedHealthcare invest in property, equipment, and capitalized software in 2023?","$3,386 million","In 2023, UnitedHealthcare invested $3,386 million in property, equipment, and capitalized software.",UNH,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+How much did UnitedHealthcare invest in property, equipment, and capitalized software in 2023?
+
+### Context:
+In 2023, UnitedHealthcare invested $3,386 million in property, equipment, and capitalized software.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+$3,386 million<|eot_id|>"
+96,"What was the increase (decrease) in cash, cash equivalents, and restricted cash for the company?",$(28),"Increase (decrease) in cash, cash equivalents, and restricted cash amounted to $(28) for a certain company.",CAT,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+What was the increase (decrease) in cash, cash equivalents, and restricted cash for the company?
+
+### Context:
+Increase (decrease) in cash, cash equivalents, and restricted cash amounted to $(28) for a certain company.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+$(28)<|eot_id|>"
+97,How much did the company invest in the Reality Labs segment in 2023?,The company invested $18.02 billion in the Reality Labs segment in 2023.,Our total RL investments were $18.02 billion in 2023 and include expenses relating to headcount and technology development across these efforts.,META,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+How much did the company invest in the Reality Labs segment in 2023?
+
+### Context:
+Our total RL investments were $18.02 billion in 2023 and include expenses relating to headcount and technology development across these efforts.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The company invested $18.02 billion in the Reality Labs segment in 2023.<|eot_id|>"
+98,How are the consolidated financial statements made part of the document mentioned?,The consolidated financial statements are made part of the mentioned document by being incorporated by reference.,The consolidated financial statements are included immediately following Part IV and are made part of the document by being incorporated by reference.,NFLX,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+How are the consolidated financial statements made part of the document mentioned?
+
+### Context:
+The consolidated financial statements are included immediately following Part IV and are made part of the document by being incorporated by reference.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The consolidated financial statements are made part of the mentioned document by being incorporated by reference.<|eot_id|>"
+99,How are the consolidated financial statements and accompanying notes from the Annual Report on Form 10-K incorporated?,The consolidated financial statements and accompanying notes are incorporated by reference into the Annual Report.,"The consolidated financial statements and accompanying notes listed in Part IV, Item 15(a)(1) of this Annual Report on Form 10-K are included immediately following Part IV hereof and incorporated by reference herein.",NFLX,2023_10K,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Below is a user question, paired with retrieved context. Write a response that appropriately answers the question,
+include specific details in your response. <|eot_id|>
+
+<|start_header_id|>user<|end_header_id|>
+
+### Question:
+How are the consolidated financial statements and accompanying notes from the Annual Report on Form 10-K incorporated?
+
+### Context:
+The consolidated financial statements and accompanying notes listed in Part IV, Item 15(a)(1) of this Annual Report on Form 10-K are included immediately following Part IV hereof and incorporated by reference herein.
+
+<|eot_id|>
+
+### Response: <|start_header_id|>assistant<|end_header_id|>
+The consolidated financial statements and accompanying notes are incorporated by reference into the Annual Report.<|eot_id|>"
