@@ -12,9 +12,21 @@ The SEC's Query API is utilized to retrieve the latest 10-K filings for a given 
 ### Prompting the Model
 Two methods are employed for retrieval. Initially, it uses a similarity-based method to identify documents that closely match the user query based on vector embeddings. However, to avoid redundancy and ensure a diverse set of information, the incorporation of Maximum Marginal Relevance (MMR) is performed. MMR selects documents that are not only relevant but also distinct from one another, thereby providing a broader range of perspectives. This combination allows the system to retrieve a comprehensive set of documents that enriches the context for subsequent processing. After retrieving relevant documents, it constructs prompts that guide the LLaMA-3 language model in generating responses. The prompts are formulated by embedding both the user query and the retrieved document chunks, ensuring that the model has access to pertinent information. This structured prompting enables the model to produce coherent and contextually accurate answers, effectively leveraging the insights from the retrieved documents.
 
+### Datasets
+
+The datasets cleaned_candidates.csv and cleaned_references.csv provide the responses and reference answer from the Llama3 8B-instruct model respectively.
 
 #### Notebooks
 
+To run the notebooks please clone this repository and change the directory to your working directory.
+
+```python
+git clone https://github.com/disturbed-mystic1/DSC-253-Project.git
+```
+```bash
+cd DSC-253-Project
+```
+To run the QA please execute DSC-253-Project.ipynb in colab and the metrics can be run metrics.ipynb
 
 #### Example
 
