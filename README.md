@@ -26,7 +26,10 @@ git clone https://github.com/your-github/DSC-253-Project.git
 ```bash
 cd DSC-253-Project
 ```
-To run the QA please execute DSC-253-Project.ipynb in colab and the metrics can be run metrics.ipynb
+To run the QA please execute DSC253Project.ipynb in colab and the metrics can be run metrics.ipynb. 
+
+To replicate the results for the ROUGE and BLEU score comparison among different models, copy and add the code from ROUGE_BLEU_comparison.ipynb to DSC253Project.ipynb and execute those cells.
+
 
 #### Example
 
