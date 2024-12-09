@@ -9,10 +9,15 @@ This project explores the application of RAG on financial documents, particularl
 The SEC's Query API is utilized to retrieve the latest 10-K filings for a given stock ticker, focusing on key sections such as **1A: Risk Factors** and **7: Management’s Discussion and Analysis**. While these sections provide critical insights, section 8 also holds valuable data about a company's financial health and could be leveraged for more comprehensive analyses. To facilitate processing, the filings are segmented into smaller, manageable text chunks using a recursive text splitter. Each chunk is limited to 1000 characters, with a 500-character overlap, ensuring context is preserved while enabling efficient analysis.
 
 
-#### Prompting the Model
+### Prompting the Model
+Two methods are employed for retrieval. Initially, it uses a similarity-based method to identify documents that closely match the user query based on vector embeddings. However, to avoid redundancy and ensure a diverse set of information, the incorporation of Maximum Marginal Relevance (MMR) is performed. MMR selects documents that are not only relevant but also distinct from one another, thereby providing a broader range of perspectives. This combination allows the system to retrieve a comprehensive set of documents that enriches the context for subsequent processing. After retrieving relevant documents, it constructs prompts that guide the LLaMA-3 language model in generating responses. The prompts are formulated by embedding both the user query and the retrieved document chunks, ensuring that the model has access to pertinent information. This structured prompting enables the model to produce coherent and contextually accurate answers, effectively leveraging the insights from the retrieved documents.
+
+
+#### Notebooks
 
 
 #### Example
+
 
 **Citation:**
 
